@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/panda-clothing/static/css/main.ebaa5349.chunk.css",
+    "main.js": "/panda-clothing/static/js/main.72ea1911.chunk.js",
+    "main.js.map": "/panda-clothing/static/js/main.72ea1911.chunk.js.map",
+    "runtime~main.js": "/panda-clothing/static/js/runtime~main.811f1b0c.js",
+    "runtime~main.js.map": "/panda-clothing/static/js/runtime~main.811f1b0c.js.map",
+    "static/js/2.f8540ef2.chunk.js": "/panda-clothing/static/js/2.f8540ef2.chunk.js",
+    "static/js/2.f8540ef2.chunk.js.map": "/panda-clothing/static/js/2.f8540ef2.chunk.js.map",
+    "index.html": "/panda-clothing/index.html",
+    "precache-manifest.b7ef278bbf1de330160dca3c3a9eca4b.js": "/panda-clothing/precache-manifest.b7ef278bbf1de330160dca3c3a9eca4b.js",
+    "service-worker.js": "/panda-clothing/service-worker.js",
+    "static/css/main.ebaa5349.chunk.css.map": "/panda-clothing/static/css/main.ebaa5349.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/panda-clothing/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/panda-clothing/static/media/shopping-bag.30f07071.svg"
+  }
+}
